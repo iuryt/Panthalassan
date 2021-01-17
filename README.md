@@ -1,2 +1,2 @@
 # Panthalassan
-Channel for teaching Oceanography.
+Channel for teaching Oceanographic Data Analysis and Modelling.
