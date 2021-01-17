@@ -1,2 +1,2 @@
 # Panthalassan
-Youtube Channel for teaching Oceanography.
+Channel for teaching Oceanography.
