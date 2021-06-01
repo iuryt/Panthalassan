@@ -1,0 +1,40 @@
+name: PYCOURSE
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - altair
+  - cartopy
+  - cdsapi
+  - ciso
+  - erddapy
+  - folium
+  - gcsfs
+  - geopandas
+  - git
+  - gsw
+  - holoviews
+  - hvplot
+  - intake
+  - intake-esm
+  - ioos_qc
+  - iris
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - matplotlib-base
+  - netcdf4
+  - numpy
+  - oceans
+  - palettable
+  - pandas
+  - proplot
+  - rise
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - utide
+  - windrose
+  - xarray
+  - xlrd
+  - zarr
