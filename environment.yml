@@ -152,6 +152,7 @@ dependencies:
   - wcwidth=0.2.5=pyh9f0ad1d_2
   - wheel=0.36.2=pyhd3deb0d_0
   - xarray=0.18.2=pyhd8ed1ab_0
+  - xlrd=2.0.1=pyhd8ed1ab_3
   - xz=5.2.5=h516909a_1
   - yaml=0.2.5=h516909a_0
   - yarl=1.6.3=py37h5e8e339_1
