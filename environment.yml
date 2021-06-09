@@ -34,6 +34,7 @@ dependencies:
   - decorator=5.0.9=pyhd8ed1ab_0
   - distributed=2021.6.0=py37h89c1867_0
   - erddapy=1.0.0=pyhd8ed1ab_0
+  - et_xmlfile=1.0.1=py_1001
   - filelock=3.0.12=pyh9f0ad1d_0
   - freetype=2.10.4=h0708190_1
   - fsspec=0.8.3=py_0
@@ -52,6 +53,7 @@ dependencies:
   - ipython=7.24.1=py37h085eea5_0
   - ipython_genutils=0.2.0=py_1
   - jbig=2.1=h7f98852_2003
+  - jdcal=1.4.1=py_0
   - jedi=0.18.0=py37h89c1867_2
   - jinja2=3.0.1=pyhd8ed1ab_0
   - joblib=1.0.1=pyhd8ed1ab_0
@@ -99,6 +101,7 @@ dependencies:
   - numpy=1.20.3=py37h038b26d_1
   - olefile=0.46=pyh9f0ad1d_1
   - openjpeg=2.4.0=hb52868f_1
+  - openpyxl=3.0.7=pyhd8ed1ab_0
   - openssl=1.1.1k=h7f98852_0
   - packaging=20.9=pyh44b312d_0
   - pandas=1.2.4=py37h219a48f_0
