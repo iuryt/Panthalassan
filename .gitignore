@@ -1,3 +1,4 @@
 data/*
 **/*.nc
+**/*.xl*
 notebooks/.ipynb_checkpoints
