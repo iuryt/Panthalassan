@@ -1,5 +1,7 @@
 # Panthalassan
 
+|[Português](https://github.com/iuryt/Panthalassan/blob/main/README_pt.md)|
+
 **Disclosure: This is a work in progress!!**
 
 The idea is to develop a material for a course in Oceanographic Data Analysis and Modelling.
